@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/friends-mountain.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.red{
+    background-color: red;
+    width: 100vw;
+    height: 5px;
+}
+i{
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.m{
+    color: white;
+    font-size: 25px;
+    margin-left: 60px;
+    margin-top: -25px;
+}
+.m2{
+    color: white;
+    margin-left: 850px;
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: -20px;
+}
+.menu2 i{
+    margin-left: 1500px;
+    margin-top: -70px;
+}
+.menu3 i{
+    margin-left: 1730px;
+    margin-top: -20px; 
+    display: flex;
+}
+.menu4 i{
+    margin-left: 1780px;
+    display: flex;
+    margin-top: -20px;
+}
+input{
+    opacity: 0.3;
+    border:solid gray ;
+}
+h1{
+    color: white;
+    font-size: 60px;
+    margin-top: 350px;
+}
+.get{
+    color: white;
+    width: 600px;
+}
+button{
+    opacity: 0.4;
+    height: 40px;
+}
+.menu5 i{
+color: black;
+}
+.ir{
+    color: black;
+    width: 200px;
+}
